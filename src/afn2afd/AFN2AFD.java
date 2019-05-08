@@ -60,7 +60,7 @@ public class AFN2AFD {
        AutoFinitoD AFD=A1.Convertir();
        System.out.println(AFD);
        // Probar una Cadena       
-       if ( AFD.Aceptar("c"))
+       if ( AFD.Aceptar("cade"))
            System.out.println("La cadena se Acepto");
        else
            System.out.println("La cadena NO se Acepto");
