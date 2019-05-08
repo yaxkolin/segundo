@@ -61,6 +61,7 @@ public class AFN2AFD {
        System.out.println(AFD);
               
        if ( AFD.Aceptar("cccca"))
+       // le estoy agregando     
            System.out.println("La cadena se Acepto");
        else
            System.out.println("La cadena NO se Acepto");
