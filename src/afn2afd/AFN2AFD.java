@@ -66,6 +66,7 @@ public class AFN2AFD {
        else
            System.out.println("La cadena NO se Acepto");
        //muchas cositas
+       //asi como es lo ultimo
   } catch (IOException e) {
     e.printStackTrace();
   }
