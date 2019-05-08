@@ -56,7 +56,7 @@ public class AFN2AFD {
                   renglon=file2.readLine();
                   A1.setRenglon(renglon);    
         }
-       //Convertir AFN->AFD 
+       //// chelitas bonitas 
        AutoFinitoD AFD=A1.Convertir();
        System.out.println(AFD);
               
@@ -65,7 +65,7 @@ public class AFN2AFD {
            System.out.println("La cadena se Acepto");
        else
            System.out.println("La cadena NO se Acepto");
-       
+       //muchas cositas
   } catch (IOException e) {
     e.printStackTrace();
   }
